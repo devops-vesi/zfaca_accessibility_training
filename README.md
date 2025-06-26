@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./webapp/images/banner.png" alt="SAPUI5 Accessibility Workshop Banner" width="800">
+  <img src="./webapp/images/banner.svg" alt="SAPUI5 Accessibility Workshop Banner" width="800">
 </p>
 
 
