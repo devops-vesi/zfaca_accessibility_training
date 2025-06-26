@@ -1,4 +1,7 @@
-![SAPUI5 Accessibility Workshop Banner](./webapp/images/banner.png)
+<p align="center">
+  <img src="./webapp/images/banner.png" alt="SAPUI5 Accessibility Workshop Banner" width="800">
+</p>
+
 
 # SAPUI5 Accessibility in Action: Building Inclusive Fiori Apps
 
