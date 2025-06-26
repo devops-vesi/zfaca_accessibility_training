@@ -1,3 +1,5 @@
+![SAPUI5 Accessibility Workshop Banner](./webapp/images/banner.png)
+
 # SAPUI5 Accessibility in Action: Building Inclusive Fiori Apps
 
 ## ZFACA_ACCESSIBILITY
