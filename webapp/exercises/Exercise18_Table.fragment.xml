@@ -44,21 +44,19 @@
                     <Link
                         id="idProductNameExercise18Link"
                         text="{ProductName}"
-                        tooltip="{ProductNameTooltip}"
+                        tooltip=""
                         href="{ProductNameUrl}"
-                        emptyIndicatorMode="On"
                     />
                     <ObjectIdentifier
                         id="idSupplierExercise18ObjectIdentifier"
                         title="{Supplier}"
                         titleActive="true"
-                        tooltip="{SupplierTooltip}"
+                        tooltip=""
                     />
                     <Text
                         id="idDescriptionItemExercise18Text"
                         text="{Description}"
-                        tooltip="{DescriptionTooltip}"
-                        emptyIndicatorMode="On"
+                        tooltip=""
                     />
                 </cells>
             </ColumnListItem>

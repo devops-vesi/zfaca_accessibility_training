@@ -25,6 +25,7 @@
   "scripts": {
     "start": "fiori run --open \"test/flpSandbox.html&sap-ui-xx-viewCache=false#training-display\"",
     "start:codespace": "ui5 serve --config ui5-local.yaml --port 8080",
+    "start-vscode": "fiori run --port 8081 --open \"test/flpSandbox.html?sap-client=750&sap-ui-xx-viewCache=false#training-display\"",
     "build": "ui5 build --config=ui5.yaml --clean-dest --dest dist",
     "lint": "eslint ./",
     "deploy": "npm run build && fiori deploy --config ui5-deploy.yaml && rimraf archive.zip",
