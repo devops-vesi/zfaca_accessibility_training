@@ -1,5 +1,5 @@
 
-# 📝 Exercise – Accessible Name
+# 📝 Exercise – #2 Accessible Name
 
 ## 📚 Introduction
 
@@ -107,6 +107,6 @@ Learn how to manage **Accessible Names** in different situations:
 | 11 | Providing Tooltips for Icon Tabs | Learn how to improve accessibility by providing **tooltips** for Icon Tabs that lack context. |
 | 12 | Providing Labels for Popups | Learn how to make popups (like **Dialogs**) more accessible by ensuring each dialog has a proper label using **ariaLabelledBy**. |
 
-
-
 ---
+
+[Go to next part: #3 Error Management & Context changes](error_management_context_changes.md)
