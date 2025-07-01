@@ -24,11 +24,11 @@ Non-semantic elements in HTML do not have a role;
 
 ## 📂 Categories of ARIA Roles
 
-- **Document structure roles**: Toolbar, Tooltip, Presentation/None, Feed
-- **Widget roles**: Searchbox, Slider, Spinbutton, Switch, Tab, Combobox, Menu
-- **Landmark roles**: Banner, Contentinfo, Main, Navigation, Region, Search
-- **Live region roles**: Alert, Status, Timer
-- **Window roles**: Alertdialog, Dialog
+- **Document structure roles**: e.g. Toolbar, Tooltip, Presentation/None, Feed
+- **Widget roles**: e.g. Searchbox, Slider, Spinbutton, Switch, Tab, Combobox, Menu
+- **Landmark roles**: e.g. Banner, Contentinfo, Main, Navigation, Region, Search
+- **Live region roles**: e.g. Alert, Status, Timer
+- **Window roles**: e.g. Alertdialog, Dialog
 
 🔗 **Resources:**
 - [Mozilla ARIA Roles](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles)
@@ -36,19 +36,96 @@ Non-semantic elements in HTML do not have a role;
 
 ---
 
-## 💻 Exercise
+## 🖼️ Landmark Roles Examples
 
-✅ **Task:**  
-Identify all interactive elements in your Fiori app and ensure they have an appropriate ARIA role assigned.
+![Landmark Roles Example](./images/landmark_roles_example.png)
 
-✏️ **Example:**  
-If you have a custom div acting as a button, assign `role="button"` and ensure it has keyboard interaction and focus styling.
+
+
+
+---
+
+## 📖 UI5 API Documentation
+
+You can find the list of the roles used by UI5 in:
+
+- [AccessibleRole](https://sapui5.hana.ondemand.com/1.108.39/#/api/sap.ui.core.AccessibleRole%23properties)
+- [AccessibleLandmarkRole](https://sapui5.hana.ondemand.com/1.108.39/#/api/sap.ui.core.AccessibleLandmarkRole)
+
+
+
 
 ---
 
-✔️ **Validation checklist**
+## 🔬 Comparison of Generated HTML
 
-- Does every interactive element have a semantic role?
-- Are roles consistent with user expectations?
+Below is a **comparison of radio button implementations** in AngularJS vs UI5:
+
+### 🔹 Radio Button in AngularJS
+
+```html
+<input _ngcontent-xxa-c185 id="typePresence_2" type="radio" name="typePresenceRadio" class="ng-untouched ng-pristine ng-valid">
+```
+![Radio Button AngularJS](./images/angular_radio_inspector.png)
+
+Generates an:
+
+```html
+<input type="radio">
+```
 
 ---
+
+### 🔹 Radio Button in UI5
+
+```html
+<div id="__button1" data-sap-ui="__button1" role="radio" aria-checked="false" aria-labelledby="__button1-label" tabindex="-1" class="sapMRb sapMRbHasLabel"> flex
+</div>
+
+```
+
+![Radio Button UI5](./images/ui5_radio_inspector.png)
+
+Generates a:
+
+```html
+<div role="radio"></div>
+```
+
+---
+
+
+
+## 🎯 Exercises
+
+### 📝 Objectives
+
+Learn to manipulate **Roles**:
+
+- Change Link Role into Button Role
+- Add more info to the Role of Buttons that open Dialogs
+- Define Landmark Roles to structure a page
+
+---
+
+
+
+---
+
+### 🛠️ Instructions
+
+- Carry out the 3 exercises
+- Use the screen reader to validate your work
+- For Landmark Roles you can also use these extensions:
+  - [Landmark Navigation via Keyboard](https://chromewebstore.google.com/detail/landmark-navigation-via-k/ddpokpbjopmeeiiolheejjpkonlkklgp)
+  - [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
+
+
+
+
+
+| # | Exercise | Objective |
+|---|----------|-----------|
+| 1 | Modify Link role into a Button role | Learn how to change Link Role into **Button Role** |
+| 2 | Define `ariaHasPopup` | Learn the importance of assigning the **ariaHasPopup** property to buttons that trigger popups, menus, or lists. |
+| 3 | Define Landmarks | Learn how to use **Landmarks** to identify the different sections of a web page clearly and make it easier to navigate using assistive technologies. |
