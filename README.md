@@ -34,7 +34,7 @@ Codespaces allows you to start coding immediately without any local setup.
 
 ---
 
-## 💻 Option 2. Run locally (VSCode or BAS)
+## 💻 Option 2. Run on a traditional development environment (VSCode or BAS)
 
 You can also clone the project and run it from **Visual Studio Code** or **Business Application Studio (BAS)**.
 
@@ -135,7 +135,7 @@ npm start
 ✅ **Summary**
 
 - **Codespaces:** Instant setup, recommended for the workshop.  
-- **VSCode or BAS:** Requires local installation, alternative if Codespaces is not available.
+- **VSCode or BAS:** Requires installation and setup. Choose this option if you prefer using a traditional development environment.
 
 ---
 
