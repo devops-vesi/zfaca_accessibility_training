@@ -40,9 +40,6 @@ Non-semantic elements in HTML do not have a role;
 
 ![Landmark Roles Example](./images/landmark_roles_example.png)
 
-
-
-
 ---
 
 ## 📖 UI5 API Documentation
@@ -51,9 +48,6 @@ You can find the list of the roles used by UI5 in:
 
 - [AccessibleRole](https://sapui5.hana.ondemand.com/1.108.39/#/api/sap.ui.core.AccessibleRole%23properties)
 - [AccessibleLandmarkRole](https://sapui5.hana.ondemand.com/1.108.39/#/api/sap.ui.core.AccessibleLandmarkRole)
-
-
-
 
 ---
 
@@ -81,7 +75,6 @@ Generates an:
 ```html
 <div id="__button1" data-sap-ui="__button1" role="radio" aria-checked="false" aria-labelledby="__button1-label" tabindex="-1" class="sapMRb sapMRbHasLabel"> flex
 </div>
-
 ```
 
 ![Radio Button UI5](./images/ui5_radio_inspector.png)
@@ -94,35 +87,25 @@ Generates a:
 
 ---
 
+## 📊 Role - Exercises
 
-
-## 🎯 Exercises
-
-### 📝 Objectives
+### 🎯 Objectives
 
 Learn to manipulate **Roles**:
 
-- Change Link Role into Button Role
-- Add more info to the Role of Buttons that open Dialogs
+- Change a Link role into a Button role
+- Add more information to the role of buttons that open dialogs
 - Define Landmark Roles to structure a page
 
 ---
 
-
-
----
-
-### 🛠️ Instructions
-
-- Carry out the 3 exercises
+### 📝 Instructions
+- If you haven’t done so already, launch the application
+- Carry out the exercises from #1 to #3
 - Use the screen reader to validate your work
 - For Landmark Roles you can also use these extensions:
   - [Landmark Navigation via Keyboard](https://chromewebstore.google.com/detail/landmark-navigation-via-k/ddpokpbjopmeeiiolheejjpkonlkklgp)
   - [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
-
-
-
-
 
 | # | Exercise | Objective |
 |---|----------|-----------|
