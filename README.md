@@ -140,3 +140,20 @@ npm start
 ---
 
 For any issue or clarification, please contact the workshop organizers.
+
+---
+
+## 📝 Exercises
+
+Below are the practical exercises for this workshop.
+
+1. [Role](./exercises/role.md)
+2. [Accessible Name](./exercises/accessible_name.md)
+3. [Error Management & Context Changes](./exercises/error_management_context_changes.md)
+4. [Keyboard Navigation](./exercises/keyboard_navigation.md)
+5. [Other Best Practices](./exercises/other_best_practices.md)
+
+➡️ **Please follow each exercise in order** to reinforce your learning and apply the accessibility fundamentals in practice.
+
+---
+
