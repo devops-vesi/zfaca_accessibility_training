@@ -1,132 +1,142 @@
+
 <p align="center">
   <img src="./webapp/images/banner.svg" alt="SAPUI5 Accessibility Workshop Banner" width="800">
 </p>
-
 
 # SAPUI5 Accessibility in Action: Building Inclusive Fiori Apps
 
 ## ZFACA_ACCESSIBILITY
 
-## 🚀 Quick Start with GitHub Codespaces (Recommended)
+This project can be launched in **two different ways**, depending on your working environment:
 
-### 1. Create your own repo
+---
 
-Click below to create your own copy of the workshop project:  
-👉 [https://github.com/devops-vesi/zfaca_accessibility_training/generate](https://github.com/devops-vesi/zfaca_accessibility_training/generate)
+## 🚀 Option 1. Run with GitHub Codespaces (**Recommended**)
+
+Codespaces allows you to start coding immediately without any local setup.
+
+### 🔧 Steps
+
+1. **Create your own repository**
+
+👉 [Create from template](https://github.com/devops-vesi/zfaca_accessibility_training/generate)
 
 - Name your repo: `ui5con-accessibility-workshop-yourname`
 - Leave all checkboxes **unchecked**
 - Click **“Create repository from template”**
 
-### 2. Open in Codespaces
+2. **Open in Codespaces**
 
-- Open your newly created repo
+- Open your newly created repository
 - Click **Code > Open with Codespaces > Create new Codespace**
 
-✅ You’ll be ready to code in seconds — no setup needed!
+✅ You will be ready to code in seconds — **no local installation required**.
 
 ---
 
-## 🖥️ VSCode
+## 💻 Option 2. Run locally (VSCode or BAS)
 
-### Initial Configuration
+You can also clone the project and run it from **Visual Studio Code** or **Business Application Studio (BAS)**.
 
-1. Download and Install Git:​
-    * https://git-scm.com/downloads​
+---
 
-2. Download and Install latest (LTS) version of NodeJS:​
-    * https://nodejs.org/en/download​
+### 🖥️ **A. Visual Studio Code**
 
-3. Download and Install Visual Studio Code (User Installer):​
-    * https://code.visualstudio.com/Download
+#### ⚙️ Prerequisites
 
-4. Install Fiori Tools (VSCode Extension):
-    * In the extensions menu on VSCode, search and install "SAP Fiori Tools – Extension Pack"​
+1. Download and Install [Git](https://git-scm.com/downloads)  
+2. Download and Install the latest (LTS) version of [NodeJS](https://nodejs.org/en/download)  
+3. Download and Install [Visual Studio Code](https://code.visualstudio.com/Download)  
+4. Install **SAP Fiori Tools – Extension Pack** from the VSCode marketplace.
 
-        ![](./webapp/images/vscode-extension.png)
+    ![](./webapp/images/vscode-extension.png)
 
-5. Open the windows command prompt (or Git Bash if you selected not to use the standard Git Windows Command Prompt during the Git installation) and run the command:
-    * To be able to push from your computer, you need to configure your username and email locally:
-        ```
-        git config --global user.name "LASTNAME Firstname"
-        git config --global user.email "xxxx@vinci-energies.com"
-        ```
-    * Set SSL certificate to false:
-        ```
-        git config --global http.sslVerify false
-        ```
+#### 📥 Clone and configure
 
-6. Open VSCode:
-    * In the search bar type:
+5. Configure Git:
+    ```
+    git config --global user.name "LASTNAME Firstname"
+    git config --global user.email "xxxx@vinci-energies.com"
+    git config --global http.sslVerify false
+    ```
+
+6. Clone the repository:
+    - Open VSCode
+    - In the command palette, type:
         ```
         >Git: Clone
         ```
         ![](./webapp/images/vscode-clone.png)
 
-    * Paste the git repository URL: https://gitlab1.vinci-energies.net/vesi/codex/developments/domains/cross-application/fiori/zfaca_accessibility_training.git
-
-    * Open the terminal (Terminal -> New Terminal)
-
-    * Make sure you are in the project folder
-
-    * Install packages from the npm:
+    - Paste the repository URL:
         ```
-        npm install
-        ```
-        ![](./webapp/images/vscode-install.png)
-
-### Launch the App
-
-On VSCode:
-* Open the terminal (Terminal -> New Terminal)
-
-* Make sure you are in the project folder
-
-* Launch the app:
-    ```
-    npm start
-    ```
-    ![](./webapp/images/vscode-launch.png)
-
-## ☁️ BAS​
-
-### Initial Configuration
-
-Open BAS:
-* Open the terminal (Terminal -> New Terminal)
-    * To be able to push from your computer, you need to configure your username and email locally:
-        ```
-        git config --global user.name "LASTNAME Firstname"
-        git config --global user.email "xxxx@vinci-energies.com"
+        https://github.com/devops-vesi/zfaca_accessibility_training.git
         ```
 
-* In the search bar type:
+7. Open a terminal in the project folder and install dependencies:
     ```
-    >Git: Clone
+    npm install
     ```
-    ![](./webapp/images/bas-clone.png)
+    ![](./webapp/images/vscode-install.png)
 
-* Paste the git repository URL: https://gitlab1.vinci-energies.net/vesi/codex/developments/domains/cross-application/fiori/zfaca_accessibility_training.git
+#### ▶️ Launch the app
 
-* Open the terminal (Terminal -> New Terminal)
+In VSCode terminal:
+```
+npm start
+```
+![](./webapp/images/vscode-launch.png)
 
-    * Make sure you are in the project folder
+---
 
-    * Install packages from the npm:
+### ☁️ **B. Business Application Studio (BAS)**
+
+#### 📥 Clone and configure
+
+1. Open BAS and a new terminal.
+
+2. Configure Git:
+    ```
+    git config --global user.name "LASTNAME Firstname"
+    git config --global user.email "xxxx@vinci-energies.com"
+    ```
+
+3. Clone the repository:
+    - In the BAS command palette, type:
         ```
-        npm install
+        >Git: Clone
         ```
-        ![](./webapp/images/bas-install.png)
+        ![](./webapp/images/bas-clone.png)
 
-### Launch the App
+    - Paste the repository URL:
+        ```
+        https://github.com/devops-vesi/zfaca_accessibility_training.git
+        ```
 
-On BAS:
-* Open the terminal (Terminal -> New Terminal)
+4. Open the terminal (Terminal -> New Terminal)  
+   Make sure you are in the project folder.
 
-* Make sure you are in the project folder
-
-* Launch the app:
+5. Install packages:
     ```
-    npm start
+    npm install
     ```
-    ![](./webapp/images/bas-launch.png)
+    ![](./webapp/images/bas-install.png)
+
+#### ▶️ Launch the app
+
+In BAS terminal:
+```
+npm start
+```
+![](./webapp/images/bas-launch.png)
+
+---
+
+✅ **Summary**
+
+- **Codespaces:** Instant setup, recommended for the workshop.  
+- **VSCode or BAS:** Requires local installation, alternative if Codespaces is not available.
+
+---
+
+For any issue or clarification, please contact the workshop organizers.
