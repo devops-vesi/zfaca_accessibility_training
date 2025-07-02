@@ -146,4 +146,4 @@ Learn to how to manage **Errors and Context changes** in forms using:
 
 ---
 
-[Go to next part (#4 Keyboard Navigation)](keyboard_navigation.md)
+[Go to next part: #4 Keyboard Navigation](keyboard_navigation.md)
