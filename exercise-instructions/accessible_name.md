@@ -1,5 +1,5 @@
 
-# 📝 Exercise – #2 Accessible Name
+# 📝 Exercise - #2 Accessible Name
 
 ## 📚 Introduction
 
@@ -60,7 +60,7 @@ An accessible name serves two primary purposes for users of assistive technologi
 
 ## 🖼️ Accessible Name Examples
 
-### 🔹 Critical Case
+### 🔴 Critical Case
 
 SAPUI5 Application dialog 1: **no labels**
 
@@ -68,7 +68,7 @@ SAPUI5 Application dialog 1: **no labels**
 
 ---
 
-### 🔹 Good Example
+### 🟢 Good Example
 
 SAPUI5 Application dialog 1: **well rendered and relevant labels**
 
@@ -76,7 +76,7 @@ SAPUI5 Application dialog 1: **well rendered and relevant labels**
 
 ---
 
-## 📊 Accessible Name – Exercises
+## 📊 Accessible Name - Exercises
 
 ### 🎯 Objectives
 

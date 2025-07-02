@@ -1,5 +1,5 @@
 
-# 📝 Exercise – #1 Role
+# 📝 Exercise - #1 Role
 
 ## 📚 Introduction
 

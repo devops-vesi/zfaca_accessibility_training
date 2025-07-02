@@ -1,4 +1,4 @@
-# 📝 Keyboard Navigation
+# 📝 Exercise - #4 Keyboard Navigation
 
 ## 📚 Introduction
 
@@ -16,7 +16,7 @@ If all functionality can be achieved **using the keyboard**, it can be accomplis
 
 ---
 
-## 💡 Focus Handling Example (1/2)
+## 💡 Focus Handling Example
 
 Help keyboard users to navigate when the order changes:
 
@@ -36,7 +36,7 @@ Move the focus to the first filter when you activate the filter bar.
 
 ---
 
-## 📝 Exercises
+## 📝 Keyboard Navigation - Exercises
 
 ### 🎯 Objectives
 

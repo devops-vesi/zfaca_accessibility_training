@@ -1,4 +1,4 @@
-## 📝 Other Best Practice
+## 📝 Exercise - #5 Other Best Practice
 
 ### 📚 Introduction
 
@@ -36,7 +36,7 @@ Learn how to manage:
 
 ---
 
-### 📝 Exercises
+### 📝 Other Best Practice - Exercises
 
 | #  | Exercise             | Objective                                                    |
 |----|----------------------|--------------------------------------------------------------|

@@ -1,4 +1,4 @@
-# 📝 Exercise – #3 Error Management & Context Changes
+# 📝 Exercise - #3 Error Management & Context Changes
 
 ## 📚 Introduction
 
@@ -79,7 +79,7 @@ Providing information about input errors in text allows users to:
 
 **Solution:** Visible labels and explicit error control.
 
-## 📚 Context Changes – Introduction
+## 📚 Context Changes - Introduction
 
 Major changes that, if made without user awareness, can disorient users who are not able to view the entire page simultaneously.
 
@@ -112,7 +112,7 @@ Use an invisible text or a toast message to notify screen reader users.
 
 ---
 
-## 📊 Error Management & Context Changes – Exercises
+## 📊 Error Management & Context Changes - Exercises
 
 ### 🎯 Objectives
 
