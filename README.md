@@ -13,7 +13,7 @@ This project can be launched in **two different ways**, depending on your workin
 
 ## 🚀 Option 1. Run with GitHub Codespaces (**Recommended**)
 
-Codespaces allows you to start coding immediately without any local setup.
+Codespaces allows you to start coding immediately without any local setup (although you will need a GitHub account).
 
 ### 🔧 Steps
 
