@@ -53,10 +53,10 @@ You can also clone the project and run it from **Visual Studio Code** or **Busin
 
 #### 📥 Clone and configure
 
-5. Configure Git:
+5. Open VSCode console then configure Git by typing:
     ```
     git config --global user.name "LASTNAME Firstname"
-    git config --global user.email "xxxx@vinci-energies.com"
+    git config --global user.email "xxxx@xxxxxx.com"
     git config --global http.sslVerify false
     ```
 
@@ -64,13 +64,7 @@ You can also clone the project and run it from **Visual Studio Code** or **Busin
     - Open VSCode
     - In the command palette, type:
         ```
-        >Git: Clone
-        ```
-        ![](./webapp/images/vscode-clone.png)
-
-    - Paste the repository URL:
-        ```
-        https://github.com/devops-vesi/zfaca_accessibility_training.git
+        git clone https://github.com/devops-vesi/zfaca_accessibility_training.git
         ```
 
 7. Open a terminal in the project folder and install dependencies:
