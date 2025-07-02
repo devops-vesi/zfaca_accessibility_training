@@ -77,7 +77,7 @@ You can also clone the project and run it from **Visual Studio Code** or **Busin
 
 In VSCode terminal:
 ```
-npm start
+npm run start-vscode
 ```
 ![](./webapp/images/vscode-launch.png)
 
