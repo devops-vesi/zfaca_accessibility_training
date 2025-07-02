@@ -11,8 +11,8 @@ All functionality of the content is operable through a keyboard interface **with
 If all functionality can be achieved **using the keyboard**, it can be accomplished by keyboard users, by **speech input** (which creates keyboard input), by **mouse** (using on-screen keyboards), and by a **wide variety of assistive technologies** that create simulated keystrokes as their output.
 
 🔗 **Resources:**
-- [Keyboard](https://www.w3.org/WAI/WCAG21/Techniques/general/G202)
-- [No Keyboard Trap](https://www.w3.org/WAI/WCAG21/Techniques/general/G21)
+- [Keyboard](https://www.w3.org/WAI/WCAG21/Understanding/keyboard.html)
+- [No Keyboard Trap](https://www.w3.org/WAI/WCAG21/Understanding/no-keyboard-trap.html)
 
 ---
 
@@ -47,10 +47,10 @@ Learn how to manage:
 
 ---
 
-### 🛠️ Instructions
+### 📋 Instructions
 
-- Carry out the exercises #16 & #17.
-- Use the **keyboard and screen reader** to validate your work.
+- Carry out the exercises **#16 & #17**
+- Use the **keyboard and screen reader** to validate your work
 
 
 

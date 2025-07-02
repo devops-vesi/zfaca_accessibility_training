@@ -8,18 +8,18 @@ In some cases, the values displayed are empty. It is necessary to ensure that th
 
 ### 💡 Blank / Empty Values
 
-Example:
+Examples:
 
-#### 🗂️ In a form (text)
+#### 🗂️ In a Form (text)
 
 ![Form Example](./images/form_other_best_practice.png)
 
-#### 🗂️ In a table
+#### 🗂️ In a Table
 
 ![Table Example](./images/table_other_best_practice.png)
 
 ---
-
+## 📝 Other Best Practice - Exercises
 ### 🎯 Objectives
 
 Learn how to manage:
@@ -29,14 +29,11 @@ Learn how to manage:
 
 ---
 
-### 🛠️ Instructions
+### 📋 Instructions
 
-- Carry out the exercise #18.
+- Carry out the exercise **#18**.
 - Use the screen reader to validate your work.
 
----
-
-### 📝 Other Best Practice - Exercises
 
 | #  | Exercise             | Objective                                                    |
 |----|----------------------|--------------------------------------------------------------|

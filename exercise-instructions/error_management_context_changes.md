@@ -19,9 +19,9 @@ Providing information about input errors in text allows users to:
 - Be protected from **serious consequences** resulting from mistakes, especially users with disabilities who may be more likely to make mistakes.
 
 🔗 **Resources:**
-- [Error Identification](https://www.w3.org/WAI/WCAG21/Techniques/general/G83)
-- [Error Suggestion](https://www.w3.org/WAI/WCAG21/Techniques/general/G84)
-- [Error Prevention](https://www.w3.org/WAI/WCAG21/Techniques/general/G98)
+- [Error Identification](https://www.w3.org/WAI/WCAG21/Understanding/error-identification)
+- [Error Suggestion](https://www.w3.org/WAI/WCAG21/Understanding/error-suggestion)
+- [Error Prevention](https://www.w3.org/WAI/WCAG21/Understanding/error-prevention-legal-financial-data.html)
 
 ---
 
@@ -69,7 +69,7 @@ Providing information about input errors in text allows users to:
 
 ![Critical Case Example](./images/forms_critical_case.png)
 
-**Issue:** Equipment Reservation Follow-up – no labels and truncated placeholders at 175% zoom.
+**Issue:** no labels and truncated placeholders at 175% zoom.
 
 ---
 
@@ -77,7 +77,7 @@ Providing information about input errors in text allows users to:
 
 ![Good Example Form](./images/forms_good_example.png)
 
-**Solution:** Visible labels and explicit error control.
+**Correct:** visible labels and explicit error control.
 
 ## 📚 Context Changes - Introduction
 
@@ -105,14 +105,14 @@ Opening a new window, moving focus to a different component, going to a new page
 ---
 
 ### 📝 Give a feedback when a large section of the page is updated
-Use an invisible text or a toast message to notify screen reader users.
+Use an invisible text or a message toast to notify screen reader users.
 
 ![Good Example Form](./images/feedback_table.png)
 
 
 ---
 
-## 📊 Error Management & Context Changes - Exercises
+## 📝 Error Management & Context Changes - Exercises
 
 ### 🎯 Objectives
 
@@ -125,9 +125,9 @@ Learn to how to manage **Errors and Context changes** in forms using:
 
 ---
 
-### 📝 Instructions
+### 📋 Instructions
 - Carry out the exercises **from #13 to #15**
-- Use the screen reader to validate your work.
+- Use the screen reader to validate your work
 
 ### ⚠️ Error Management Exercises
 | # | Exercise | Objective |
@@ -137,7 +137,7 @@ Learn to how to manage **Errors and Context changes** in forms using:
 
 ---
 
-### 🗂️ Context Changes Exercises
+### 🗂️ Context Changes Exercise
 
 | # | Exercise | Objective |
 |---|----------|-----------|

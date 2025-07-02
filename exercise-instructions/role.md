@@ -87,7 +87,7 @@ Generates a:
 
 ---
 
-## 📊 Role - Exercises
+## 📝 Role - Exercises
 
 ### 🎯 Objectives
 
@@ -99,9 +99,9 @@ Learn to manipulate **Roles**:
 
 ---
 
-### 📝 Instructions
+### 📋 Instructions
 - If you haven’t done so already, launch the application
-- Carry out the exercises from #1 to #3
+- Carry out the exercises **from #1 to #3**
 - Use the screen reader to validate your work
 - For Landmark Roles you can also use these extensions:
   - [Landmark Navigation via Keyboard](https://chromewebstore.google.com/detail/landmark-navigation-via-k/ddpokpbjopmeeiiolheejjpkonlkklgp)

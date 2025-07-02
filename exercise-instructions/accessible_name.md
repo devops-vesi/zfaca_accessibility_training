@@ -15,8 +15,8 @@ An accessible name serves two primary purposes for users of assistive technologi
 - **Distinguish the element** from other elements on the page.
 
 🔗 **Resources:**
-- [Mozilla Accessible Name](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label)
-- [WAI Accessible Name](https://www.w3.org/WAI/WCAG21/Techniques/general/G208)
+- [Mozilla Accessible Name](https://developer.mozilla.org/en-US/docs/Glossary/Accessible_name)
+- [WAI Accessible Name](https://www.w3.org/WAI/ARIA/apg/practices/names-and-descriptions/)
 
 ---
 
@@ -76,7 +76,7 @@ SAPUI5 Application dialog 1: **well rendered and relevant labels**
 
 ---
 
-## 📊 Accessible Name - Exercises
+## 📝 Accessible Name - Exercises
 
 ### 🎯 Objectives
 
@@ -90,7 +90,7 @@ Learn how to manage **Accessible Names** in different situations:
 
 ---
 
-### 📝 Instructions
+### 📋 Instructions
 - Carry out the exercises **from #4 to #12**
 - Use a **screen reader** to validate your work
 
