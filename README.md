@@ -137,6 +137,10 @@ For any issue or clarification, please contact the workshop organizers.
 
 ---
 
+## 📝 NVDA Setup (Screen Reader)
+
+[Go to NVDA Setup](nvda_setup.md)
+
 ## 📝 Exercises
 
 Below are the practical exercises for this workshop.
