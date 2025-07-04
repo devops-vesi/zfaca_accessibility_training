@@ -15,6 +15,8 @@ This project can be launched in **two different ways**, depending on your workin
 
 Codespaces allows you to start coding immediately without any local setup (although you will need a GitHub account).
 
+✅ You will be ready to code in seconds - **no local installation required**.
+
 ### 🔧 Steps
 
 1. **Create your own repository**
@@ -23,14 +25,34 @@ Codespaces allows you to start coding immediately without any local setup (altho
 
 - Name your repo: `ui5con-accessibility-workshop-yourname`
 - Leave all checkboxes **unchecked**
-- Click **“Create repository from template”**
+- Click **“Create repository”**
 
 2. **Open in Codespaces**
 
 - Open your newly created repository
-- Click **Code > Open with Codespaces > Create new Codespace**
+- Click **Code > Codespaces "tab" > Create codespace on main**
 
-✅ You will be ready to code in seconds — **no local installation required**.
+![](./webapp/images/codespace.png)
+- Wait for the dependencies to install automatically
+
+#### ▶️ Launch the app
+
+In the terminal type:
+```
+npm start
+```
+
+- Go to "test" folder
+
+![](./webapp/images/folder_tree.png)
+
+ - Click on "flpSandbox.html" file:
+
+![](./webapp/images/folder_tree2.png)
+
+ - Click on "Accessibility Training" tile:
+
+![](./webapp/images/launchpad.png)
 
 ---
 
@@ -67,7 +89,10 @@ You can also clone the project and run it from **Visual Studio Code** or **Busin
         git clone https://github.com/devops-vesi/zfaca_accessibility_training.git
         ```
 
-7. Open a terminal in the project folder and install dependencies:
+7. Open a terminal, go to the project folder and install dependencies:
+    ```
+    cd zfaca_accessibility_training
+    ```
     ```
     npm install
     ```

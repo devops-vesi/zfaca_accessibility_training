@@ -99,7 +99,7 @@ Displays NVDA announcements in a floating window. It’s especially useful durin
 
 ![NVDA Speech Viewer Navigation](./webapp/images/speech_viewer1.png)
 
-A new window will open, displaying all spoken feedback in real time.
+A new window will open, displaying all spoken feedback in real time. In the the context of this handson, to be able to test easily, check "Show Speech Viewer on Startup"
 
 ![NVDA Speech Viewer Window](./webapp/images/speech_viewer2.png)
 

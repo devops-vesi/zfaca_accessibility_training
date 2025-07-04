@@ -101,8 +101,11 @@ Learn to manipulate **Roles**:
 
 ### 📋 Instructions
 - If you haven’t done so already, launch the application
-- Carry out the exercises **from #1 to #3**
-- Use the screen reader to validate your work
+- Carry out the exercises **from #1 to #3** (You need to go back to the tab displaying the application: the instructions are shown directly there)
+- Use the screen reader to validate your work: You have to use keyboard navigation (positionate with arrow keys x Tab)
+- Whenever you are stuck, you can get help by clicking on:
+![Exercise Help](./images/exercise_help.png)
+- A password to access the complete solution will be provided by the instructors at some point
 - For Landmark Roles you can also use these extensions:
   - [Landmark Navigation via Keyboard](https://chromewebstore.google.com/detail/landmark-navigation-via-k/ddpokpbjopmeeiiolheejjpkonlkklgp)
   - [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
