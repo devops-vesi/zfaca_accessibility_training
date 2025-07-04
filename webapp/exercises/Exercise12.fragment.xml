@@ -10,7 +10,7 @@
         <content>
             <Text
                 id="idNotebookExercise12DialogText"
-                text="Notebook"
+                text="This is the dialog message that we want the screen reader to read out loud / detect when the dialog opens."
             />
         </content>
         <buttons>
