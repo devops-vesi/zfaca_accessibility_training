@@ -20,14 +20,14 @@ sap.ui.define([
                         }).addStyleClass("sapUiSmallMarginTop");
 
                         if (oInput.getValue() && oInput.getValue().length > 0) {
-                            sMessage = "Polite type of InivisibleMessage was created created and added to the static area.";
+                            sMessage = "Polite type of InvisibleMessage was created created and added to the static area.";
                             oMessageStrip.setType("Success");
                             oMessageStrip.setText(sMessage);
                             oFlexBox.addItem(oMessageStrip);
                             //Take a look at announce method for sap.ui.core.InvisibleMessage control
                             //this.oInvisibleMessage
                         } else {
-                            sMessage = "Assertive type of InivisibleMessage was created and added to the static area.";
+                            sMessage = "Assertive type of InvisibleMessage was created and added to the static area.";
                             oMessageStrip.setType("Error");
                             oMessageStrip.setText(sMessage);
                             oFlexBox.addItem(oMessageStrip);

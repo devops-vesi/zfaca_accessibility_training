@@ -1,6 +1,6 @@
 {
     "objective": "<p><strong>Objective:</strong></p><p>Learn how to enhance accessibility by providing meaningful <strong>text alternatives</strong> (alt text) for images and icons.</p>",
-    "task": "<p><strong>Task:</strong></p><p>You are provided with a decorative image (in its default state) that currently lacks a descriptive text alternative.</p><p>Modify the code to include an alt attribute, ensuring that screen readers vocalize the purpose of the image.</p>",
+    "task": "<p><strong>Task:</strong></p><p>You are provided with a decorative image (in its default state) that currently lacks a descriptive text alternative.</p><p>Modify the code to include an alt attribute, ensuring that screen readers vocalize the purpose of the image: 'Press down on the cap and turn it to the left (counter-clockwise) to open'</p>",
     "expectedResult": "<p><strong>Expected Result:</strong></p>",
     "instruction": "<p><strong>Instruction:</strong></p><p>In the file <strong>/webapp/exercises/Exercise08.fragment.xml</strong> add the <strong>alt</strong> and <strong>decorative</strong> properties in the <strong>Image</strong> control.</p>",
     "howToTest": "<p><strong>How to test:</strong></p><ul><li>Use NVDA (Screen Reader) to inspect the image. It should vocalize the descriptive text alternative.</li></ul>",

@@ -20,7 +20,7 @@ function (JSONModel, Device, MockServer, ODataModel) {
         createImagesModel: function () {
             let sPath = sap.ui.require.toUrl("com/vesi/zfaca_accessibility_training/images");
             let oImages = {
-                "exercise08": sPath + "/notebook.png",
+                "exercise08": sPath + "/counter_clockwise.jpg",
                 "exercise03": sPath + "/measures.png"
             };
             let oModel = new JSONModel(oImages);
