@@ -1,4 +1,4 @@
-## 📝 Exercise - #5 Other Best Practice
+## 📝 Exercise - #5 Other Best Practices
 
 ### 📚 Introduction
 
@@ -19,7 +19,7 @@ Examples:
 ![Table Example](./images/table_other_best_practice.png)
 
 ---
-## 📝 Other Best Practice - Exercises
+## 📝 Other Best Practices - Exercises
 ### 🎯 Objectives
 
 Learn how to manage:
@@ -33,7 +33,6 @@ Learn how to manage:
 
 - Carry out the exercise **#18**.
 - Use the screen reader to validate your work.
-
 
 | #  | Exercise             | Objective                                                    |
 |----|----------------------|--------------------------------------------------------------|

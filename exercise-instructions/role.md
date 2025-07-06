@@ -107,8 +107,27 @@ Learn to manipulate **Roles**:
 ![Exercise Help](./images/exercise_help.png)
 - A password to access the complete solution will be provided by the instructors at some point
 - For Landmark Roles you can also use these extensions:
-  - [Landmark Navigation via Keyboard](https://chromewebstore.google.com/detail/landmark-navigation-via-k/ddpokpbjopmeeiiolheejjpkonlkklgp)
+  - [Landmark Navigation via Keyboard (Recommended)](https://chromewebstore.google.com/detail/landmark-navigation-via-k/ddpokpbjopmeeiiolheejjpkonlkklgp)
   - [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
+
+---
+ 
+  ### ✅ Landmark Navigation Extension Setup (Exercise 3)
+
+Once installed:
+
+1. Go to **Preferences** in the extension settings.
+2. Set **“Border and label appearance”** to **“Persistent”**.  
+➔ Keeps landmark borders and labels always visible, even after navigation.  
+✔️ Useful for testing to see exactly which landmark is active.
+3. Check **“Close the pop-up immediately when activating a landmark button”**.  
+➔ Automatically closes the pop-up after selecting a landmark.  
+✔️ Makes testing faster and more efficient.
+
+💡 **Summary:**  
+These settings make landmark navigation testing **easier and quicker** by keeping visual indicators visible and reducing extra steps.
+
+---
 
 | # | Exercise | Objective |
 |---|----------|-----------|

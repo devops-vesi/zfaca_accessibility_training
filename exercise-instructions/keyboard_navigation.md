@@ -52,9 +52,6 @@ Learn how to manage:
 - Carry out the exercises **#16 & #17**
 - Use the **keyboard and screen reader** to validate your work
 
-
-
-### ⚠️ Error Management Exercises
 | # | Exercise | Objective |
 |---|----------|-----------|
 | 16 | Use Command Execution | Learn how to assign **keyboard commands** to UI components, allowing for faster and more accessible interaction using keyboard shortcuts. |
