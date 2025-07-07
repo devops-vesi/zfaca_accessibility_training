@@ -116,7 +116,7 @@ Learn to manipulate **Roles**:
 
 Once installed:
 
-1. Go to **Preferences** in the extension settings.
+1. Go to **Preferences / Options** in the extension settings.
 2. Set **“Border and label appearance”** to **“Persistent”**.  
 ➔ Keeps landmark borders and labels always visible, even after navigation.  
 ✔️ Useful for testing to see exactly which landmark is active.
