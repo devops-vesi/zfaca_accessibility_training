@@ -39,6 +39,8 @@ Learn how to manage:
 | 18 | Blank / Empty Values | Learn how to manage empty values in content and tables. |
 
 ---
+🎉 **Congratulations on reaching the end of the workshop!**  
+If you'd like to revisit or test all exercises, here are the access passwords:
 
 <details>
   <summary>🔐 Access Passwords for Exercises</summary>
