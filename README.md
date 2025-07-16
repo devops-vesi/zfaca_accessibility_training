@@ -175,9 +175,12 @@ The session introduced the fundamentals of IT accessibility and demonstrated how
 
 ---
 
-## 📝 NVDA Setup (Screen Reader)
+## 📝 Screen Reader Setup
 
-[Go to NVDA Setup](nvda_setup.md)
+- [Go to NVDA Setup (Windows)](nvda_setup.md)
+- [Go to VoiceOver Setup - Experimental (macOS)](voiceover_setup.md)
+  
+  *(Note: VoiceOver setup is a work in progress and may require additional testing.)*
 
 ## 📝 Exercises
 
