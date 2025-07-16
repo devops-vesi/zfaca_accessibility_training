@@ -158,7 +158,20 @@ npm start
 
 ---
 
-For any issue or clarification, please contact the workshop organizers.
+For any issue or clarification, please contact the workshop organizers:
+- [Nicolas Boucaud](https://www.linkedin.com/in/nicolas-boucaud-37567083/) / [Nizare Damoumat](https://www.linkedin.com/in/nizare-damoumat/)
+
+You can also [open an issue](https://github.com/devops-vesi/zfaca_accessibility_training/issues) for questions or suggestions.
+
+**Note:**
+This project was originally presented during a **UI5con 2025** session titled:
+
+> **SAPUI5 Accessibility in Action: Building Inclusive Fiori Apps**
+
+The session introduced the fundamentals of IT accessibility and demonstrated how to apply them in SAPUI5 applications through live coding and hands-on exercises.
+
+
+📄 You can find the introductory slides for this session in PDF format [here](./slides/UI5con_2025_SAPUI5_Accessibility_in_Action_Building_inclusive_Fiori_Apps.pdf).
 
 ---
 
