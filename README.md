@@ -1,3 +1,5 @@
+A hands-on SAPUI5 training app to practice web accessibility (a11y) best practices.
+Covers ARIA roles, keyboard focus, screen reader support, alt texts, and more - aligned with WCAG/RGAA standards.
 
 <p align="center">
   <img src="./webapp/images/banner.svg" alt="SAPUI5 Accessibility Workshop Banner" width="800">
